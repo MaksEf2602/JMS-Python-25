@@ -1,4 +1,4 @@
-def add2(a, b) -> str:
+def add2(a, b) -> int:
     """
     Takes two values and returns sum.
     """
